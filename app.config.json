@@ -1,0 +1,10 @@
+{
+  "apps" : [
+    {
+      "name"      : "myblog",
+      "script"    : "npx",
+      "interpreter": "none",
+      "args": "gatsby serve -p 80"
+    }
+  ]
+}
